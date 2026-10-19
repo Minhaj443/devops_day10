@@ -1,1 +1,1 @@
-print("CI/CD is running")
+print("Hello from CI")
